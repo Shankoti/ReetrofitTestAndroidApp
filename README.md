@@ -8,5 +8,5 @@ REST client for Android and Java which aims to make it easier to consume RESTful
 - run this command into your terminal using Android studio
 
 ```
-git clone
+git clone https://github.com/Shankoti/ReetrofitTestAndroidApp.git
 ```
